@@ -1,5 +1,5 @@
 # Project 3
-James Griffin (811-966-037)
+James Griffin
 
 In order to compile, use the make utility within the directory
 that contains the make file. Typing '$ make' will make all of 
